@@ -16,11 +16,3 @@
 
 ### screenshot
 ![image](https://github.com/40843245/Kotlin_Code_Practice/assets/75050655/83ed37ca-5f0f-4a4b-8331-054398d95cbf)
-
-
-
-
-
-    
-
-

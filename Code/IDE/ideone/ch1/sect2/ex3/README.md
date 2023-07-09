@@ -1,4 +1,4 @@
-# ex1
+# ex3
 ## ideone
 ### code
     fun main(args: Array<String>) 

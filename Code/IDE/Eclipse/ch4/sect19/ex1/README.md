@@ -30,3 +30,15 @@
     2
     I'm not blocked 3
     3
+### NOTICE
+Notice the following differences in the code with the Flow from the earlier examples
+
+    A builder function of Flow type is called flow.
+    
+    Code inside a flow { ... } builder block can suspend.
+    
+    The simple function is no longer marked with a suspend modifier.
+    
+    Values are emitted from the flow using an emit function.
+    
+    Values are collected from the flow using a collect function.

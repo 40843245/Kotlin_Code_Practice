@@ -1,4 +1,4 @@
-# ex1
+# ex2
 ## IntelliJ
 ### code
     import kotlin.test.assertContains;

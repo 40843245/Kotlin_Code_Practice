@@ -32,3 +32,6 @@
 > + Try to compile the code then execute the code (if compile success), see the outputs or exception at runtime. Otherwise (compile fails), see the error messsage. ***AND think why it is.***
 >
 > + If you don't understand a keyword the code snippets, you can search the keyword in Kotlin official Docs or Kotlin API references.
+>
+> About how to search it, see [the tips in reference section under reference.md](https://github.com/40843245/Kotlin_Code_Practice/blob/main/reference.md)
+
